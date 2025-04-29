@@ -1,0 +1,100 @@
+{
+  "presets": [
+    {
+      "id": 0,
+      "jellyPrefabPath": "Jelly 0",
+      "jellySpritePath": "Jelly 0",
+      "jellyName": "Slime",
+      "jellyCost": 100,
+      "isUnlocked": true
+    },
+    {
+      "id": 1,
+      "jellyPrefabPath": "Jelly 1",
+      "jellySpritePath": "Jelly 1",
+      "jellyName": "Jelly Bean",
+      "jellyCost": 500,
+      "isUnlocked": false
+    },
+    {
+      "id": 2,
+      "jellyPrefabPath": "Jelly 2",
+      "jellySpritePath": "Jelly 2",
+      "jellyName": "Grape",
+      "jellyCost": 2000,
+      "isUnlocked": false
+    },
+    {
+      "id": 3,
+      "jellyPrefabPath": "Jelly 3",
+      "jellySpritePath": "Jelly 3",
+      "jellyName": "Teddy bear",
+      "jellyCost": 5000,
+      "isUnlocked": false
+    },
+    {
+      "id": 4,
+      "jellyPrefabPath": "Jelly 4",
+      "jellySpritePath": "Jelly 4",
+      "jellyName": "Pudding",
+      "jellyCost": 10000,
+      "isUnlocked": false
+    },
+    {
+      "id": 5,
+      "jellyPrefabPath": "Jelly 5",
+      "jellySpritePath": "Jelly 5",
+      "jellyName": "Yanggaeng",
+      "jellyCost": 25000,
+      "isUnlocked": false
+    },
+    {
+      "id": 6,
+      "jellyPrefabPath": "Jelly 6",
+      "jellySpritePath": "Jelly 6",
+      "jellyName": "Cat's paw",
+      "jellyCost": 50000,
+      "isUnlocked": false
+    },
+    {
+      "id": 7,
+      "jellyPrefabPath": "Jelly 7",
+      "jellySpritePath": "Jelly 7",
+      "jellyName": "Dreamer",
+      "jellyCost": 100000,
+      "isUnlocked": false
+    },
+    {
+      "id": 8,
+      "jellyPrefabPath": "Jelly 8",
+      "jellySpritePath": "Jelly 8",
+      "jellyName": "Shark",
+      "jellyCost": 150000,
+      "isUnlocked": false
+    },
+    {
+      "id": 9,
+      "jellyPrefabPath": "Jelly 9",
+      "jellySpritePath": "Jelly 9",
+      "jellyName": "Sushi",
+      "jellyCost": 300000,
+      "isUnlocked": false
+    },
+    {
+      "id": 10,
+      "jellyPrefabPath": "Jelly 10",
+      "jellySpritePath": "Jelly 10",
+      "jellyName": "Royal",
+      "jellyCost": 500000,
+      "isUnlocked": false
+    },
+    {
+      "id": 11,
+      "jellyPrefabPath": "Jelly 11",
+      "jellySpritePath": "Jelly 11",
+      "jellyName": "Earth",
+      "jellyCost": 1000000,
+      "isUnlocked": false
+    }
+  ]
+}
